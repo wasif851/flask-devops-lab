@@ -15,3 +15,5 @@ python app.py
 - `/api/report` - Returns hostname, Python version, and uptime.
 
 This project demonstrates Git, GitHub, Docker, and Docker Compose workflows for CIS 4930.
+
+Local PR workflow completed for Issue #1.
