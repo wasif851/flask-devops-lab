@@ -14,6 +14,6 @@ python app.py
 - `/api/config` - Returns the application configuration.
 - `/api/report` - Returns hostname, Python version, and uptime.
 
-This project demonstrates Git, GitHub, Docker, and Docker Compose workflows for CIS 4930.
+Issue #1 PR workflow completed.
 
-Local PR workflow completed for Issue #1.
+This project demonstrates Git, GitHub, Docker, and Docker Compose workflows for CIS 4930.
